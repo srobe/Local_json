@@ -1,0 +1,34 @@
+{
+    "fields": [
+      "Abs EPV",
+      "Temperature",
+      "Vert Velocity",
+      "Humidity",
+      "T2M",
+      "Vorticity",
+      "Wind Speed"
+    ]
+   ,
+    "regions": [
+      "Africa",
+      "Australia",
+      "Global",
+      "Mid Atlantic",
+      "North America",
+      "North Polar",
+      "Pacific",
+      "South America",
+      "Seven Seas",
+      "South Polar"
+    ]
+   ,
+    "initialTimes": [
+      "17Jul2024 00z",
+      "17Jul2024 00z"
+    ]
+   ,
+    "leadHours": [
+      "000h 17Jul2024 00z",
+      "000h 17Jul2024 00z"
+    ]
+}

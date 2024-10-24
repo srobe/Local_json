@@ -1,0 +1,30 @@
+body{
+  background-color: lightblue;
+  box-sizing: border-box;
+}
+
+h1{
+  font-size: 30px;
+  text-align: center;
+  padding: 15px 0px;
+}
+
+#root  .card {
+    background-color: white;
+    width: 80%;
+    height: 180px;
+    margin: 10px auto ;
+    padding: 20px ;  
+}
+
+#root  .card h2 {
+  color: rgb(0, 0, 0);
+}
+
+#root  .card h4 {
+  color: gray;
+}
+
+#root  .card h3  {
+  color: gray;
+}
